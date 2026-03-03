@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner python](img/python.png)
+![Banner python](img/banner.png)
 
 </div>
 

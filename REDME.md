@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Python Logo](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Banner python](img/python.png)
+
+![Python Logo](https://img.shields.io/badge/logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge&labelColor=000000)
 
 </div>

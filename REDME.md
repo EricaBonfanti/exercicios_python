@@ -62,7 +62,3 @@ O desenvolvimento e a manutenção deste repositório contribuem para o aprimora
 ## 🧑‍💻 Autora
 
 **[Érica Bonfanti]** - [[Link para o seu GitHub ou LinkedIn]](https://www.linkedin.com/in/ericabonf/)
-
----
-
-<sub>**Desenvolvido com 💚 para a comunidade de Engenharia de Software**</sub> 

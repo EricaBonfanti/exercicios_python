@@ -9,5 +9,5 @@ rmaior = float(input("Digite o valor do raio maior! "))
 rmenor = float(input("Agora digite o valor do raio menor! "))
 
 area = (math.pi * (rmaior**2 - rmenor**2 ))
-
+   
 print (f"P valor final da área foi: {area}")

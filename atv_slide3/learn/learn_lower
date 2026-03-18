@@ -1,0 +1,5 @@
+
+# Método Lower()
+#Retorna o texto minúsculo em maiúsculo.
+txt = input("Digite uma frase em maiúsculo: ")
+print(txt.lower())
